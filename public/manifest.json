@@ -1,0 +1,25 @@
+{
+  "short_name": " 24/7 Locksmith Services",
+  "name": "24/7 Locksmith Services | Locksmith Services",
+  "icons": [
+    {
+      "src": "../src/assets/24:7_LockSmith_Services_Icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "../src/assets/24:7_LockSmith_Services_Icon.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../src/assets/24:7_LockSmith_Services_Icon.ico",
+      "type": "image/x-icon",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
